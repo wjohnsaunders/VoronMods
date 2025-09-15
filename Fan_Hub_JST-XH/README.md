@@ -22,11 +22,11 @@ The following picture shows it installed on the Voron fan assmembly. My Voron Tr
 
 ## BOM
 
-3 x JST-XH socket
-1 x Stripboard/Veroboard or other prototyping board cut to size
-1 x M3x4 SHCS bolt (for Voron mount)
-3 x M3x8 SHCS bolts (2 for Voron mount)
-2 x M3X4X5 heatset inserts (for Voron mount)
+- 3 x JST-XH socket
+- 1 x Stripboard/Veroboard or other prototyping board cut to size
+- 1 x M3x4 SHCS bolt (for Voron mount)
+- 3 x M3x8 SHCS bolts (2 for Voron mount)
+- 2 x M3X4X5 heatset inserts (for Voron mount)
 
 ## Printing
 
