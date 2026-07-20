@@ -20,6 +20,9 @@ The following picture shows it installed on the Voron fan assmembly. My Voron Tr
 
 ![Voron Final Assembly](images/InstalledOnVoronFanAssembly.jpg)
 
+Update: There is a 2-connector version which allows you to place a join in a long fan of thermistor cable. I was thinking to have one
+on my heated bed so that the bed thermistor can plug into it next to the wago connectors for power.
+
 ## BOM
 
 - 3 x JST-XH socket

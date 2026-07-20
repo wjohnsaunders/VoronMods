@@ -1,4 +1,4 @@
-# Coupler Z Stepper
+# Coupler Z Stepper for Trident R2 Release
 
 The Voron Trident is speced to use steppers with integrated leadscrews for the Z axis.
 I had several normal steppers, couplers and leadscrews on hand, and I didn't want to
@@ -12,16 +12,15 @@ mount. No Z height is lost with this approach.
 This design uses the Creality rigid couplers as used on the Ender3 and CR10. If you
 don't have any spare, they are a few dollars each on AliExpress.
 
-The screw holes have been recessed so they the standard M3x16 length screws can be
+The screw holes have been recessed so that the standard M3x16 length screws can be
 used. During my build I have found that any mod needing different length screws can
 stall the project for weeks, if you need to order them from AliExpress. So I learnt
 the hard way to retain support for the original length bolts where possible.
 
-They lower the stepper by the shaft length of a typical stepper (18mm), so that the
-start of the leadscrew will be at the same position as an integrated stepper, and
-the top will also end up at the same position. The R2 design lowers the steppers an
-additional amount to cater for longer UHF hotends that could hit the leadscrew. So
-these mounts bring everything into line with integrated steppers.
+They lower the stepper by 18mm, so that the top of the leadscrew will be at the
+same height as an integrated stepper. So these mounts bring everything into line with
+integrated steppers. If you need to cater for longer UHF hotends that could hit the
+leadscrew, you might need to cut your leadscrew to size.
 
 Note: For my 300x300x300 Trident a 350mm leadscrews is ample to get full travel and not
 hit the toolhead. For a Trident with 250mm Z travel you will want 300mm ones instead.
